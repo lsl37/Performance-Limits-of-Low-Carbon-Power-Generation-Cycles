@@ -10,6 +10,7 @@ Abstract: "This study investigates a series of potential solutions for low-carbo
 
 1. Install the supported LaTeX environment
 2. Change the environment in plot_settings_latex.py
+3. Change import plot_settings_plain to import plot_settings_latex in ...
 
 ### Windows
 - Install MiKTeX: https://miktex.org/download
