@@ -8,7 +8,8 @@ Abstract: "This study investigates a series of potential solutions for low-carbo
 
 ## Optional: LaTeX Support
 
-After installing the supported LaTeX environment, change the environment in plot_settings_latex.py
+1. Install the supported LaTeX environment
+2. Change the environment in plot_settings_latex.py
 
 ### Windows
 - Install MiKTeX: https://miktex.org/download
