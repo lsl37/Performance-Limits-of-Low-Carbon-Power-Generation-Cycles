@@ -31,12 +31,12 @@ from matplotlib.patches import Polygon
 #Change plot_settings_plain to plot_settings_latex if the latex environment
 # is supported
 
-## import plot_settings_latex
+## import .plot_settings_latex
 ## print('Latex environment supported')
 
 
 
-import plot_settings_plain
+import .plot_settings_plain
 # print('Latex environment not supported')
 ####################### END USER INPUT ########################################
 
