@@ -4,6 +4,10 @@ channels:
 dependencies:
   - python=3.11
   - numpy
-  - matplotlib
+  - matplotlib>=3.5
   - scipy
-  - pip
+  - ipywidgets=7.6
+  - ipympl=0.8
+  - notebook
+  - jupyterlab=3
+  - nodejs
