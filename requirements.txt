@@ -1,3 +1,6 @@
-matplotlib>=3.5.0
 numpy>=1.20.0
+matplotlib>=3.5.0
 scipy>=1.7.0
+ipywidgets>=7.6.0
+ipympl>=0.8.0
+notebook>=6.4.0
