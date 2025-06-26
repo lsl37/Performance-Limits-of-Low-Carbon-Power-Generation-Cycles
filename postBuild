@@ -1,0 +1,3 @@
+#!/bin/bash
+# Set matplotlib backend for better Binder compatibility
+echo "backend : Agg" > ~/.config/matplotlib/matplotlibrc
