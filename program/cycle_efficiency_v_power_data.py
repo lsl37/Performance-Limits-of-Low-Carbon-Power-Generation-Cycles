@@ -36,7 +36,7 @@ from matplotlib.patches import Polygon
 
 
 
-import program.plot_settings_plain
+##import program.plot_settings_plain
 # print('Latex environment not supported')
 ####################### END USER INPUT ########################################
 
