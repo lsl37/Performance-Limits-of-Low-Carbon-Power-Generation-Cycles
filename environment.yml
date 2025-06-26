@@ -2,7 +2,7 @@ name: power-generation-cycles
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
+  - python=3.11
   - numpy
   - matplotlib>=3.5
   - scipy
