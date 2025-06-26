@@ -25,7 +25,7 @@ import matplotlib.patches as mpatches
 # import program.plot_settings_latex
 # print('Latex environment supported')
 
-import program.plot_settings_plain
+##import program.plot_settings_plain
 # print('Latex environment not supported')
 
 ####################### END USER INPUT ########################################
