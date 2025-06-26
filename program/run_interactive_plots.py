@@ -15,10 +15,10 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 
 # Import plot modules
-from cycle_efficiency_v_power_data import run_e_v_power_plot
-from hydrogen_cycles import run_hydrogen_cycles_plot
-from CCS_cycles import run_ccs_cycles_plot
-from CCS_costs import run_ccs_costs_plot
+from .cycle_efficiency_v_power_data import run_e_v_power_plot
+from .hydrogen_cycles import run_hydrogen_cycles_plot
+from .CCS_cycles import run_ccs_cycles_plot
+from .CCS_costs import run_ccs_costs_plot
 
 # Import matplotlib to ensure proper backend
 import matplotlib
