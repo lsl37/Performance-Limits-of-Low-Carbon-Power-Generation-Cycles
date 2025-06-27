@@ -11,7 +11,7 @@ Abstract: "This study investigates a series of potential solutions for low-carbo
 The program contains 4 interactive visual plots intended to explore the sensitivity analysis. The user can alter some of the assumptions made in the paper to see its effects on the different power generation cycles.
 
 ## To run program: 
-[![Binder](https://mybinder.org/badge_logo.svg)]([https://mybinder.org/v2/gh/YOUR_USERNAME/YOUR_REPO_NAME/HEAD](https://mybinder.org/v2/gh/lsl37/Performance-Limits-of-Low-Carbon-Power-Generation-Cycles.git/HEAD?urlpath=%2Fdoc%2Ftree%2Fdemo.ipynb))
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lsl37/Performance-Limits-of-Low-Carbon-Power-Generation-Cycles/HEAD?urlpath=tree%2Fdemo.ipynb)
 
 Click the badge above to run this project in your browser!
 
