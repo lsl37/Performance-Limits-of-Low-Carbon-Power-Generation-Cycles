@@ -1,6 +1,6 @@
 # A-Comparison-of-Low-Carbon-Gas-turbine-Power-Generation-Cycles
 
-Supplementary material to the paper: "Performance Limits of Low Carbon Power Generation Cycles"
+Supplementary material to the paper: "A Comparison of Low-Carbon Gas-turbine Power Generation Cycles"
 
 DOI: 
 
